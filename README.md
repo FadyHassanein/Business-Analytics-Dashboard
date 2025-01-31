@@ -89,17 +89,7 @@ The app uses a sample dataset (`customers.csv`) with the following columns:
 - Plotly
 - Numerize
 
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ## Customization
 - Modify the dataset (`customers.csv`) to use your own data.
 - Adjust the visualizations or filters in `app.py` to match your specific needs.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
